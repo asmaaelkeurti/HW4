@@ -68,21 +68,24 @@
         <br />
         <br />
         <br />
-        <asp:Label ID="lbGrossPay" runat="server" BorderStyle="Solid" BorderWidth="1px"></asp:Label>
+        <asp:Label ID="lbGrossPay" runat="server" BorderStyle="None" BorderWidth="1px"></asp:Label>
         <br />
         <br />
         <br />
         <br />
         <br />
-        <asp:Label ID="lbPreTaxIncome" runat="server" BorderStyle="Solid" BorderWidth="1px"></asp:Label>
+        <asp:Label ID="lbPreTaxIncome" runat="server" BorderStyle="None" 
+            BorderWidth="1px"></asp:Label>
         <br />
         <br />
-        <asp:Label ID="lbAfterTaxIncome" runat="server" BorderStyle="Solid" BorderWidth="1px"></asp:Label>
+        <asp:Label ID="lbAfterTaxIncome" runat="server" BorderStyle="None" 
+            BorderWidth="1px"></asp:Label>
         <br />
         <br />
         <br />
         <br />
-        <asp:Label ID="lbNetPay" runat="server"></asp:Label>
+        <asp:Label ID="lbNetPay" runat="server" BorderStyle="Solid" BorderWidth="1px" 
+            Width="100px"></asp:Label>
 
 
     </div>

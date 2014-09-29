@@ -1,0 +1,31 @@
+﻿body {   
+    margin-top:10px;
+    width:80%;
+    margin:auto;
+    
+}
+
+h1{
+    text-align:center;    
+}
+
+#text
+{   padding-right:10%;
+
+    float:left;
+    width:15%;
+    margin:auto;
+    }
+#input
+{   
+
+    float:left;
+    width:20%;
+    margin:auto;
+    }
+#label
+{  
+    float:left;
+    width:15%;
+    margin:auto;
+    }
